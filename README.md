@@ -1,8 +1,6 @@
 Biomed
 ======
 
-Goniomèetre numérique
+Goniomètre numérique
 
 Participant : Sophie Hanquin, Julie Vijghen, Jérémy Wynants, Nacer Zarguit, Louis Lenoir
-
-yoyo
